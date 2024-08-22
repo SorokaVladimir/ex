@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 BBBBB
+=======
+AAAA
+>>>>>>> d2151dd (Added AAAA)
