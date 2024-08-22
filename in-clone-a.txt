@@ -1,2 +1,2 @@
 I'm in clone A!
-AAAAA
+CCCCCC
